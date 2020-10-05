@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Brian-todo/static/css/main.342f9edb.chunk.css",
+    "main.js": "/Brian-todo/static/js/main.ada84f8a.chunk.js",
+    "main.js.map": "/Brian-todo/static/js/main.ada84f8a.chunk.js.map",
+    "runtime-main.js": "/Brian-todo/static/js/runtime-main.ca2fbfbf.js",
+    "runtime-main.js.map": "/Brian-todo/static/js/runtime-main.ca2fbfbf.js.map",
+    "static/js/2.b916beb5.chunk.js": "/Brian-todo/static/js/2.b916beb5.chunk.js",
+    "static/js/2.b916beb5.chunk.js.map": "/Brian-todo/static/js/2.b916beb5.chunk.js.map",
+    "index.html": "/Brian-todo/index.html",
+    "precache-manifest.54424e69f6a7f40b12442f46c69957ac.js": "/Brian-todo/precache-manifest.54424e69f6a7f40b12442f46c69957ac.js",
+    "service-worker.js": "/Brian-todo/service-worker.js",
+    "static/css/main.342f9edb.chunk.css.map": "/Brian-todo/static/css/main.342f9edb.chunk.css.map",
+    "static/js/2.b916beb5.chunk.js.LICENSE.txt": "/Brian-todo/static/js/2.b916beb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca2fbfbf.js",
+    "static/js/2.b916beb5.chunk.js",
+    "static/css/main.342f9edb.chunk.css",
+    "static/js/main.ada84f8a.chunk.js"
+  ]
+}
